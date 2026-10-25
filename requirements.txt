@@ -1,0 +1,8 @@
+numpy
+pandas
+requests
+ortools
+folium
+streamlit>=1.50
+openpyxl
+pillow
